@@ -1,6 +1,6 @@
 # Frontend Mentor - Product preview card component solution
 
-This is a solution to the [Name of the challenge](https://www.url-of-the-challenge-on-frontend-mentor). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Testimonials grid section](https://www.frontendmentor.io/learning-paths/building-responsive-layouts--z1qCXVqkD/steps/665075a813eea846b7032c6f/challenge/start). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -17,9 +17,6 @@ This is a solution to the [Name of the challenge](https://www.url-of-the-challen
     - [Challenges](#Challenges)
     - [Help needed](#Help-needed)
     - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -32,12 +29,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![My solution](./images/solution.png)
 
 ### Links
 
-- Github Solution
-- Live Site
+- [Github Solution](https://github.com/RalphPastel972/testimonials-grid-section-main)
+- [Live Site](https://ralphpastel972.github.io/testimonials-grid-section-main/)
 
 ## My process
 
@@ -47,60 +44,35 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### Self-assessment
 
 #### What I learnt
 
-I learnt how to import fonts from Google Fonts
+I had to get deeper into grid to understand it better. I feel I still have so much to learn.
 
-Using gap in the text part made it hard to match the image size while changing display 
+I used background-image for the very first time.
+
+I also used var for fonts for the 1st time.
+
+I am still really bad to estimate how long I need to do a challenge.
 
 #### What I am proud of
 
-What are you most proud of and what would you do differently next time?
+Just my consistency.
 
 #### What I would do differently
 
-What are you most proud of, and what would you do differently next time?
+I would spend more time to plan the best layout and the best approach for a challenge.
 
 #### Challenges
 
-What challenges did you encounter, and how did you overcome them?
+I am still way to slow.
 
 #### Help needed
 
-What specific areas of your project would you like help with?
+Nothing specific. But I am open to any critics that will make me improve.
 
 #### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@RalphPastel972](https://www.frontendmentor.io/profile/RalphPastel972)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+I will do again a challenge or two and then I will learn JS.
